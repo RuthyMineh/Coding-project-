@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(234,85,250);
+    
+}
+
+div{
+    width:196px;
+    height:70px;
+    background-color:pink;
+}
+    .yellow {
+    background-color:red;
+}
+#pages {
+    margin:0 auto;
+}
+.imageContainer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height:50%;
+}
+.imageContainer img {
+    display: inline;
+}
+
+.imageContainer img{
+     width: 33%;
+}
+p{
+    color: red
+}
+li{
+    font-size: inherit
+}
