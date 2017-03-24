@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 body {
     background-color: rgb(234,85,250);
     
@@ -8,7 +9,7 @@ div{
     height:70px;
     background-color:pink;
 }
-    .yellow {
+.yellow {
     background-color:red;
 }
 #pages {
@@ -22,14 +23,51 @@ div{
 }
 .imageContainer img {
     display: inline;
+    width: 33%;
 }
 
-.imageContainer img{
-     width: 33%;
-}
-p{
+p {
     color: red
 }
-li{
+li {
     font-size: inherit
+}
+#name {
+    color:rgb(255,0,102);
+}
+#clothing {
+    color: black;
+}
+#ASOS {
+    color:green;
+}
+#ZARA {
+    color:green;
+}
+#HM {
+    color:green;
+}
+#FOREVER {
+    color: green;
+}
+#name2 {
+    color:maroon;
+}
+#name3 {
+    color:maroon;
+}
+#SEPHORA {
+    color:maroon;
+}
+#ESTEE {
+    color:maroon;
+}
+#MAC {
+    color:maroon;
+}
+#CHANEL {
+    color:maroon;
+}
+h1 { 
+    font-family: 'Dancing Script', cursive;
 }
